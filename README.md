@@ -7,4 +7,4 @@ This project analyzes historical temperature data and predicts sun intensity for
 
 **Acknowledgments**: Data Source: WorldClim (GeoTIFF files)
 
-**Run**: Install dependencies using pip install -r requirements.txt., Open the notebook using Jupyter Notebook.
+**Run**: Clone the repository, Install dependencies using pip install -r requirements.txt., Open the notebook using Jupyter Notebook.
